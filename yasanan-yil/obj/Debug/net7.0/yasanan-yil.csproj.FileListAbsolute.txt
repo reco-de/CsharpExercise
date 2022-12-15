@@ -1,0 +1,15 @@
+C:\Users\recep\OneDrive\Masaüstü\recode\.NET\C# 101\..Alıştırma\yasanan-yil\bin\Debug\net7.0\yasanan-yil.exe
+C:\Users\recep\OneDrive\Masaüstü\recode\.NET\C# 101\..Alıştırma\yasanan-yil\bin\Debug\net7.0\yasanan-yil.deps.json
+C:\Users\recep\OneDrive\Masaüstü\recode\.NET\C# 101\..Alıştırma\yasanan-yil\bin\Debug\net7.0\yasanan-yil.runtimeconfig.json
+C:\Users\recep\OneDrive\Masaüstü\recode\.NET\C# 101\..Alıştırma\yasanan-yil\bin\Debug\net7.0\yasanan-yil.dll
+C:\Users\recep\OneDrive\Masaüstü\recode\.NET\C# 101\..Alıştırma\yasanan-yil\bin\Debug\net7.0\yasanan-yil.pdb
+C:\Users\recep\OneDrive\Masaüstü\recode\.NET\C# 101\..Alıştırma\yasanan-yil\obj\Debug\net7.0\yasanan-yil.csproj.AssemblyReference.cache
+C:\Users\recep\OneDrive\Masaüstü\recode\.NET\C# 101\..Alıştırma\yasanan-yil\obj\Debug\net7.0\yasanan-yil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\recep\OneDrive\Masaüstü\recode\.NET\C# 101\..Alıştırma\yasanan-yil\obj\Debug\net7.0\yasanan-yil.AssemblyInfoInputs.cache
+C:\Users\recep\OneDrive\Masaüstü\recode\.NET\C# 101\..Alıştırma\yasanan-yil\obj\Debug\net7.0\yasanan-yil.AssemblyInfo.cs
+C:\Users\recep\OneDrive\Masaüstü\recode\.NET\C# 101\..Alıştırma\yasanan-yil\obj\Debug\net7.0\yasanan-yil.csproj.CoreCompileInputs.cache
+C:\Users\recep\OneDrive\Masaüstü\recode\.NET\C# 101\..Alıştırma\yasanan-yil\obj\Debug\net7.0\yasanan-yil.dll
+C:\Users\recep\OneDrive\Masaüstü\recode\.NET\C# 101\..Alıştırma\yasanan-yil\obj\Debug\net7.0\refint\yasanan-yil.dll
+C:\Users\recep\OneDrive\Masaüstü\recode\.NET\C# 101\..Alıştırma\yasanan-yil\obj\Debug\net7.0\yasanan-yil.pdb
+C:\Users\recep\OneDrive\Masaüstü\recode\.NET\C# 101\..Alıştırma\yasanan-yil\obj\Debug\net7.0\yasanan-yil.genruntimeconfig.cache
+C:\Users\recep\OneDrive\Masaüstü\recode\.NET\C# 101\..Alıştırma\yasanan-yil\obj\Debug\net7.0\ref\yasanan-yil.dll
