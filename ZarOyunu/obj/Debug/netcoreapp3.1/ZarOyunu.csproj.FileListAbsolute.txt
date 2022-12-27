@@ -1,0 +1,14 @@
+C:\Users\zeyne\Desktop\recode\Geleceği Yazanlar\..Alıştırma\ZarOyunu\ZarOyunu\bin\Debug\netcoreapp3.1\ZarOyunu.exe
+C:\Users\zeyne\Desktop\recode\Geleceği Yazanlar\..Alıştırma\ZarOyunu\ZarOyunu\bin\Debug\netcoreapp3.1\ZarOyunu.deps.json
+C:\Users\zeyne\Desktop\recode\Geleceği Yazanlar\..Alıştırma\ZarOyunu\ZarOyunu\bin\Debug\netcoreapp3.1\ZarOyunu.runtimeconfig.json
+C:\Users\zeyne\Desktop\recode\Geleceği Yazanlar\..Alıştırma\ZarOyunu\ZarOyunu\bin\Debug\netcoreapp3.1\ZarOyunu.runtimeconfig.dev.json
+C:\Users\zeyne\Desktop\recode\Geleceği Yazanlar\..Alıştırma\ZarOyunu\ZarOyunu\bin\Debug\netcoreapp3.1\ZarOyunu.dll
+C:\Users\zeyne\Desktop\recode\Geleceği Yazanlar\..Alıştırma\ZarOyunu\ZarOyunu\bin\Debug\netcoreapp3.1\ZarOyunu.pdb
+C:\Users\zeyne\Desktop\recode\Geleceği Yazanlar\..Alıştırma\ZarOyunu\ZarOyunu\obj\Debug\netcoreapp3.1\ZarOyunu.csproj.AssemblyReference.cache
+C:\Users\zeyne\Desktop\recode\Geleceği Yazanlar\..Alıştırma\ZarOyunu\ZarOyunu\obj\Debug\netcoreapp3.1\ZarOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeyne\Desktop\recode\Geleceği Yazanlar\..Alıştırma\ZarOyunu\ZarOyunu\obj\Debug\netcoreapp3.1\ZarOyunu.AssemblyInfoInputs.cache
+C:\Users\zeyne\Desktop\recode\Geleceği Yazanlar\..Alıştırma\ZarOyunu\ZarOyunu\obj\Debug\netcoreapp3.1\ZarOyunu.AssemblyInfo.cs
+C:\Users\zeyne\Desktop\recode\Geleceği Yazanlar\..Alıştırma\ZarOyunu\ZarOyunu\obj\Debug\netcoreapp3.1\ZarOyunu.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\Desktop\recode\Geleceği Yazanlar\..Alıştırma\ZarOyunu\ZarOyunu\obj\Debug\netcoreapp3.1\ZarOyunu.dll
+C:\Users\zeyne\Desktop\recode\Geleceği Yazanlar\..Alıştırma\ZarOyunu\ZarOyunu\obj\Debug\netcoreapp3.1\ZarOyunu.pdb
+C:\Users\zeyne\Desktop\recode\Geleceği Yazanlar\..Alıştırma\ZarOyunu\ZarOyunu\obj\Debug\netcoreapp3.1\ZarOyunu.genruntimeconfig.cache
