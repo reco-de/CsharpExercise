@@ -1,0 +1,10 @@
+C:\Users\zeyne\Desktop\recode\C#\SaatApp\bin\Debug\SaatApp.exe.config
+C:\Users\zeyne\Desktop\recode\C#\SaatApp\bin\Debug\SaatApp.exe
+C:\Users\zeyne\Desktop\recode\C#\SaatApp\bin\Debug\SaatApp.pdb
+C:\Users\zeyne\Desktop\recode\C#\SaatApp\obj\Debug\SaatApp.csproj.AssemblyReference.cache
+C:\Users\zeyne\Desktop\recode\C#\SaatApp\obj\Debug\SaatApp.Form1.resources
+C:\Users\zeyne\Desktop\recode\C#\SaatApp\obj\Debug\SaatApp.Properties.Resources.resources
+C:\Users\zeyne\Desktop\recode\C#\SaatApp\obj\Debug\SaatApp.csproj.GenerateResource.cache
+C:\Users\zeyne\Desktop\recode\C#\SaatApp\obj\Debug\SaatApp.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\Desktop\recode\C#\SaatApp\obj\Debug\SaatApp.exe
+C:\Users\zeyne\Desktop\recode\C#\SaatApp\obj\Debug\SaatApp.pdb
